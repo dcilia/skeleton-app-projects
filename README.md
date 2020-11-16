@@ -1,3 +1,3 @@
 # skeleton-app-projects
 
-Adding some additional content!
+Each branch contains a skeleton app project to some testing with.
